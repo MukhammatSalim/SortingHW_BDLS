@@ -1148,10 +1148,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NumberOfObjects: 15
+  DebuggingMode: 0
   WhatToSpawn: {fileID: 749849854405901552, guid: 8ac6dde2ebfd0014f9fe662db85b0140, type: 3}
   ParentForObjects: {fileID: 266773999}
   SortingCubes: []
-  DebuggingMode: 1
 --- !u!4 &798934299
 Transform:
   m_ObjectHideFlags: 0
